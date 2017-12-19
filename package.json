@@ -4,7 +4,7 @@
   "description": "This is a ReactJS tutorial found here: https://www.youtube.com/watch?v=z-vLtsKvp_4&index=2&list=PLYxzS__5yYQmD7FV1YYz9UxPyGTNsFObp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "it": "webpack-dev-server --hot "
   },
   "repository": {
     "type": "git",
